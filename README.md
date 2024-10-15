@@ -1,7 +1,7 @@
 # 🌟 Hello, World ! 🌟
 
 
-Hi there! I'm Lasadi Methmini( https://github.com/LasadiMethmini ), a passionate developer with a keen interest in  software development technologies. I love creating efficient and scalable applications, diving deep into new programming languages, and exploring innovative tech solutions.
+Hi there! I'm [Lasadi Methmini](https://github.com/LasadiMethmini), a passionate developer with a keen interest in  software development technologies. I love creating efficient and scalable applications, diving deep into new programming languages, and exploring innovative tech solutions.
 
 ## About Me
 
